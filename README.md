@@ -1,1 +1,1 @@
-# go4profit
+# Check out go4profit.us
